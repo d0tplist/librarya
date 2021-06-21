@@ -1,3 +1,3 @@
 struct swift {
-    var text = "Hello, World!"
+    var text = "Hello, World! library A"
 }
